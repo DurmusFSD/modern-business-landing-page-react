@@ -23,4 +23,4 @@ A sleek and responsive landing page built with React, Tailwind CSS, and Framer M
 - Framer Motion
 - Swiper.js
 - React Icons
-# modern-business-landing-page-react
+# Durmuş Özgül / İlahi Kodcu
